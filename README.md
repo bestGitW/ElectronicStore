@@ -24,7 +24,7 @@
 
 Пример раоботы бота.
 
-<img src="readme_data\ready_video.gif" swidth="200" height="300">
+<img src="readme_data\ready_video.gif" swidth="400" height="600">
 
 
 ## Запуск бота
